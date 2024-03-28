@@ -1,2 +1,2 @@
-# data_structure_code
+# data-structure
 Course source code and homework of Date Structure
